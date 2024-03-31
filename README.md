@@ -65,10 +65,12 @@ After starting the containers, you can access the services through the following
 **Username:** airflow  
 **Password:** airflow
 - Go To [http://localhost:8080](http://localhost:8080)
-![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/e6a95b4a-b908-4899-b712-e4ecc9f092bb)
+![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/a79ca824-72c7-4dfa-aca6-41186e0e3553)
+
 
 - Example Airflow DAG Web UI displaying a running workflow.
-![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/77bd01d9-e4ce-4fd0-8487-6fe071b720b6)
+![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/3fc69ff7-8c24-452f-b920-79d6c963755f)
+
 
 
 
@@ -78,14 +80,16 @@ After starting the containers, you can access the services through the following
 ### Spark
 
 - Go To [http://localhost:8181](http://localhost:8181)
-![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/1ace3a4a-d05a-4894-8b9e-28fc06ba86e0)
+![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/b3790ed2-d478-469f-b70c-b8628bd93c01)
+
 
 
 
 ### Hive
 
 - Go To [http://localhost:10002](http://localhost:10002)
-![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/b24a468d-8e3c-4038-a372-2034cc73421d)
+![image](https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow/assets/56219554/09401f86-10bd-4b12-b438-dfd43d3c9701)
+
 
 ## Contents
 
