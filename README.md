@@ -32,7 +32,7 @@ Welcome to the Foundation Workspace repository! This project aims to provide a c
   
 Clone the repository to your local machine
 ``` shell
-https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow.git
+git clone https://github.com/aaliashraf/airflow-spark-hive-azure-docker-workflow.git
 ```
 
 Navigate to the Repo directory
